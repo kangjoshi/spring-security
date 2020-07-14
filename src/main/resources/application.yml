@@ -1,0 +1,7 @@
+authentication:
+  header: Authorization
+  type: Bearer
+
+jwt:
+  secret: kangjoshi
+  expiration: 604800
